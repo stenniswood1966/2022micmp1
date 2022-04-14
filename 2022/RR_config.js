@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"2022miwal",
+        "defaultValue":"2022micmp1",
         "required":"true",
         "disabled":"true"
       },
